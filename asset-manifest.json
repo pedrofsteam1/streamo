@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/streamo/static/css/main.648c8709.chunk.css",
-    "main.js": "/streamo/static/js/main.f04f25e3.chunk.js",
-    "main.js.map": "/streamo/static/js/main.f04f25e3.chunk.js.map",
+    "main.css": "/streamo/static/css/main.1170f075.chunk.css",
+    "main.js": "/streamo/static/js/main.0e50dc0b.chunk.js",
+    "main.js.map": "/streamo/static/js/main.0e50dc0b.chunk.js.map",
     "runtime-main.js": "/streamo/static/js/runtime-main.5aef56d3.js",
     "runtime-main.js.map": "/streamo/static/js/runtime-main.5aef56d3.js.map",
-    "static/js/2.cc7cd8aa.chunk.js": "/streamo/static/js/2.cc7cd8aa.chunk.js",
-    "static/js/2.cc7cd8aa.chunk.js.map": "/streamo/static/js/2.cc7cd8aa.chunk.js.map",
+    "static/js/2.56810c89.chunk.js": "/streamo/static/js/2.56810c89.chunk.js",
+    "static/js/2.56810c89.chunk.js.map": "/streamo/static/js/2.56810c89.chunk.js.map",
     "static/js/3.d078c018.chunk.js": "/streamo/static/js/3.d078c018.chunk.js",
     "static/js/3.d078c018.chunk.js.map": "/streamo/static/js/3.d078c018.chunk.js.map",
     "index.html": "/streamo/index.html",
-    "static/css/main.648c8709.chunk.css.map": "/streamo/static/css/main.648c8709.chunk.css.map",
-    "static/js/2.cc7cd8aa.chunk.js.LICENSE.txt": "/streamo/static/js/2.cc7cd8aa.chunk.js.LICENSE.txt",
+    "static/css/main.1170f075.chunk.css.map": "/streamo/static/css/main.1170f075.chunk.css.map",
+    "static/js/2.56810c89.chunk.js.LICENSE.txt": "/streamo/static/js/2.56810c89.chunk.js.LICENSE.txt",
     "static/media/spider.9b11581c.mp4": "/streamo/static/media/spider.9b11581c.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.5aef56d3.js",
-    "static/js/2.cc7cd8aa.chunk.js",
-    "static/css/main.648c8709.chunk.css",
-    "static/js/main.f04f25e3.chunk.js"
+    "static/js/2.56810c89.chunk.js",
+    "static/css/main.1170f075.chunk.css",
+    "static/js/main.0e50dc0b.chunk.js"
   ]
 }
