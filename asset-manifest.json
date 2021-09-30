@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/streamo/static/css/main.bbfa3a84.chunk.css",
-    "main.js": "/streamo/static/js/main.cfa29886.chunk.js",
-    "main.js.map": "/streamo/static/js/main.cfa29886.chunk.js.map",
+    "main.js": "/streamo/static/js/main.d5ffbee0.chunk.js",
+    "main.js.map": "/streamo/static/js/main.d5ffbee0.chunk.js.map",
     "runtime-main.js": "/streamo/static/js/runtime-main.8b68da8a.js",
     "runtime-main.js.map": "/streamo/static/js/runtime-main.8b68da8a.js.map",
     "static/js/2.5c88faa3.chunk.js": "/streamo/static/js/2.5c88faa3.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8b68da8a.js",
     "static/js/2.5c88faa3.chunk.js",
     "static/css/main.bbfa3a84.chunk.css",
-    "static/js/main.cfa29886.chunk.js"
+    "static/js/main.d5ffbee0.chunk.js"
   ]
 }
