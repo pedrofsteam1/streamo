@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pedrofsteam1/streamo/static/css/main.bbfa3a84.chunk.css",
-    "main.js": "/pedrofsteam1/streamo/static/js/main.b8e2b5c8.chunk.js",
-    "main.js.map": "/pedrofsteam1/streamo/static/js/main.b8e2b5c8.chunk.js.map",
+    "main.js": "/pedrofsteam1/streamo/static/js/main.87a082ca.chunk.js",
+    "main.js.map": "/pedrofsteam1/streamo/static/js/main.87a082ca.chunk.js.map",
     "runtime-main.js": "/pedrofsteam1/streamo/static/js/runtime-main.5d7e4a9b.js",
     "runtime-main.js.map": "/pedrofsteam1/streamo/static/js/runtime-main.5d7e4a9b.js.map",
     "static/js/2.5c88faa3.chunk.js": "/pedrofsteam1/streamo/static/js/2.5c88faa3.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5d7e4a9b.js",
     "static/js/2.5c88faa3.chunk.js",
     "static/css/main.bbfa3a84.chunk.css",
-    "static/js/main.b8e2b5c8.chunk.js"
+    "static/js/main.87a082ca.chunk.js"
   ]
 }
